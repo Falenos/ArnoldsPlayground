@@ -1,0 +1,2 @@
+require('./idea');
+require('./post');
